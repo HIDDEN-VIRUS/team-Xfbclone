@@ -74,6 +74,7 @@ os.system("banner")
 i=input(yellow+"\n\n\tEnter Your Banner Option :")
 
 
+
 os.system((i))
 
 
